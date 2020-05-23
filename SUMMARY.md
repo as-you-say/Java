@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Predicate 인터페이스](README.md)
+* [함수를 파라미터로 전달](README.md)
 * [람다식](untitled.md)
 
