@@ -14,3 +14,13 @@
 
 ## 2. Protocol Class
 
+클래스 내부에 특정 명령을 가져가는 형식으로 진행된다.
+
+```text
+class Protocol {
+    public static class HELLO_WORLD {
+    
+    }
+}
+```
+
